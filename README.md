@@ -6,5 +6,5 @@
 3. Compare performance of the different algorithms used
 
 ## Folder info
-Datasets contain raw data to be used for this project
-Source contains all the webpages from where data has been collected
+1. Datasets contain raw data to be used for this project
+2. Source contains all the webpages from where data has been collected
